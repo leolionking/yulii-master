@@ -1,0 +1,1 @@
+class ThrottlingException implements Exception {}
